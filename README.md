@@ -1,4 +1,4 @@
 # test
 playing with git
-seeing hot it works
+seeing how it works
 #adding another line
